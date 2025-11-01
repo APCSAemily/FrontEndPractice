@@ -1,0 +1,18 @@
+.box{
+    float: left;
+    width: 20%;
+    font-size: 40px;
+}
+
+button{
+    float: left; /* makes both buttons align with the boxes */
+    font-size: 40px;
+}
+
+.left-shift-button,
+.right-shift-button,
+.boxes{
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
